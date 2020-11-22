@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7191f5e-d74c-45d8-ab25-6c3aeb15b3d0" name="Default Changelist" comment="some updates with new OOP.go">
+      <change afterPath="$PROJECT_DIR$/lessons/OOP.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/const-generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/const-generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from-string-to-byte.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/from-string-to-byte.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from-string-to-int.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/from-string-to-int.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/helloworld.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/packages.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slices-massive.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/slices-massive.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/types.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varribles.go" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/varribles.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kbOIWc4jpuvXS33F3zpCZvcA3C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.autoimport" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Support\GoProjects\go-first\lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build OOP.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-first" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OOP.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build const-generator.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-first" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/const-generator.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build from-string-to-int.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-first" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/from-string-to-int.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-first" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build OOP.go" />
+        <item itemvalue="Go Build.go build from-string-to-int.go" />
+        <item itemvalue="Go Build.go build const-generator.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit main.go" />
+    <MESSAGE value="some updates with new OOP.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="some updates with new OOP.go" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="763" y="354" key="#Go_Modules" timestamp="1606064309368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="354" key="#Go_Modules/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606064309368" />
+    <state x="736" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606062623564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="311" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606062623563" />
+    <state x="371" y="121" width="1200" height="800" key="DiffContextDialog" timestamp="1605966537386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="121" width="1200" height="800" key="DiffContextDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605966537386" />
+    <state x="751" y="263" key="FileChooserDialogImpl" timestamp="1606064832294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="263" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606064832294" />
+    <state width="1340" height="259" key="GridCell.Tab.0.bottom" timestamp="1606065863511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606065863511" />
+    <state width="1340" height="259" key="GridCell.Tab.0.center" timestamp="1606065863511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606065863511" />
+    <state width="1340" height="259" key="GridCell.Tab.0.left" timestamp="1606065863511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606065863511" />
+    <state width="1340" height="259" key="GridCell.Tab.0.right" timestamp="1606065863511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606065863511" />
+    <state x="304" y="213" width="998" height="708" key="SettingsEditor" timestamp="1606064598338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="304" y="213" width="998" height="708" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606064598338" />
+    <state x="563" y="241" key="Vcs.Push.Dialog.v2" timestamp="1606035476610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="241" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606035476610" />
+    <state x="634" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1606064023158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="240" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606064023158" />
+  </component>
+</project>
