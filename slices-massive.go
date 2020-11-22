@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//TwiceNum()
+	//TwiceStr()
 	//twice := [] string("Hello", "Name") ????
 	//numbers := []float64{126.03, 77.19, 44.53, 45.55}        ??
 	// все массивы передаются по ссылке и меняются из любого места changeArray(numbers)
@@ -25,7 +25,7 @@ func main() {
 	//}
 }
 
-//func TwiceNum(string){                      ????
+//func TwiceStr(string){                      ????
 //twice := [] string("Hello", "Name")
 //fmt.Println(twice)
 //}
